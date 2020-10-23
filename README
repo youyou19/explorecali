@@ -1,0 +1,13 @@
+The project features:
+2- We can add employees by department
+3- We can search by name and salary of employees
+4- Employees can be searched by name or salary
+5- The department first in the database must exist otherwise we can’t add an new employee.
+6- The name of the employees must be unique to save in database.
+List of technologies used:
+a)	Spring boot
+b)	Spring data REST
+c)	REST
+d)	Lombok
+e)	For Database: h2database
+f)	Swagger: for documentation, if you want to access on this UI of Rest API, you can use: http://localhost:8080/browser/index.html it is default link.
